@@ -40,8 +40,8 @@ const CHANNELS: Channel[] = [
   {
     icon: Instagram,
     label: "Instagram",
-    value: "@kerala_kicks",
-    href: "https://instagram.com/kerala_kicks",
+    value: "@magshoppy",
+    href: "https://instagram.com/magshoppy",
     hint: "DM us anytime",
   },
 ];
